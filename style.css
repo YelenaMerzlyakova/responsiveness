@@ -1,34 +1,21 @@
     @media only screen and (min-width: 0px) and (max-width: 600px) {
         body { background-color: red; }
+        h1 { font-size: 2vw; }
+        p { font-size: 1vw; }
     }
     @media only screen and (min-width: 600px) and (max-width: 968px) {
         body { background-color: green; }
+        h1 { font-size: 2vw; }
+        p { font-size: 1vw; }
+        .small {display: inline-block; background-color:tomato; width: 66%; vertical-align: top; }
+        .medium {display: inline-block; background-color:green; width: 33%; vertical-align: top; }
+        .large {display: inline-block; background-color:yellow; width: 100%; vertical-align: top; }
     }
     @media only screen and (min-width: 968px) {
         body { background-color: blue; }
-    }
-
-    @media only screen and (min-width: 0px) and (max-width: 600px) {
-        #small { display: block; }
-        #medium { display: none; }
-        #large { display: none; }
-    }
-    @media only screen and (min-width: 600px) and (max-width: 968px) {
-        #small { display: none; }
-        #medium { display: block; }
-        #large { display: none; }
-    }
-    @media only screen and (min-width: 968px) {
-        #small { display: none; }
-        #medium { display: none; }
-        #large { display: block; }
-    }
-
-    @media only screen and (min-width: 0px) and (max-width: 600px) {
         h1 { font-size: 2vw; }
+        p { font-size: 1vw; }
+        .small {display: inline-block; background-color:tomato; width: 33%; vertical-align: top; }
+        .medium {display: inline-block; background-color: green; width: 33%; vertical-align: top; }
+        .large {display: inline-block; background-color: yellow; width: 33%; vertical-align: top; }
     }
-    @media only screen and (min-width: 600px) and (max-width: 968px) {
-        h1 { font-size: 2vw; }
-    }
-    @media only screen and (min-width: 968px) {
-        h1 { font-size: 2vw; }
