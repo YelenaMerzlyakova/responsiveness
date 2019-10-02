@@ -46,6 +46,6 @@ Some frameworks do this for you, check it out in bootstrap (amongst others) in t
 
 **[Test it yourself!](https://yelenamerzlyakova.github.io/responsiveness/)**
 
-[wide](https://github.com/YelenaMerzlyakova/responsiveness/blob/master/wide.png)
-[medium](https://github.com/YelenaMerzlyakova/responsiveness/blob/master/medium.png)
-[small](https://github.com/YelenaMerzlyakova/responsiveness/blob/master/small.png)
+![wide](https://github.com/YelenaMerzlyakova/responsiveness/blob/master/wide.png)
+![medium](https://github.com/YelenaMerzlyakova/responsiveness/blob/master/medium.png)
+![small](https://github.com/YelenaMerzlyakova/responsiveness/blob/master/small.png)
